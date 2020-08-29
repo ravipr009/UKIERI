@@ -1,0 +1,8 @@
+prefix=/home/ravi/UKIERI/devel
+
+Name: exotica_python
+Description: Description of exotica_python
+Version: 5.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: exotica_core pybind11_catkin shape_msgs moveit_msgs geometry_msgs

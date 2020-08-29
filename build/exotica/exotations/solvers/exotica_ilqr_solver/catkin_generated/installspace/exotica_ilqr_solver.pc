@@ -1,0 +1,8 @@
+prefix=/home/ravi/UKIERI/install
+
+Name: exotica_ilqr_solver
+Description: Description of exotica_ilqr_solver
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lexotica_ilqr_solver
+Requires: exotica_core

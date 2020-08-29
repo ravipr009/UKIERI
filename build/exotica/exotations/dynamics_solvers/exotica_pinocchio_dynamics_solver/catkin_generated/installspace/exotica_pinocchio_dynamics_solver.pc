@@ -1,0 +1,8 @@
+prefix=/home/ravi/UKIERI/install
+
+Name: exotica_pinocchio_dynamics_solver
+Description: Description of exotica_pinocchio_dynamics_solver
+Version: 0.0.1
+Cflags: -I${prefix}/include -I/opt/ros/kinetic/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lexotica_pinocchio_dynamics_solver -lpinocchio -lboost_filesystem -lboost_serialization -lboost_system -lurdfdom_sensor -lurdfdom_model_state -lurdfdom_model -lurdfdom_world -lconsole_bridge
+Requires: exotica_core

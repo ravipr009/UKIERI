@@ -1,0 +1,8 @@
+prefix=/home/ravi/UKIERI/install
+
+Name: exotica_ik_solver
+Description: Description of exotica_ik_solver
+Version: 5.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lexotica_ik_solver
+Requires: exotica_core

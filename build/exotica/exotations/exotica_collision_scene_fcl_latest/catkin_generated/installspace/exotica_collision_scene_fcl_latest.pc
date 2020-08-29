@@ -1,0 +1,8 @@
+prefix=/home/ravi/UKIERI/install
+
+Name: exotica_collision_scene_fcl_latest
+Description: Description of exotica_collision_scene_fcl_latest
+Version: 5.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lexotica_collision_scene_fcl_latest
+Requires: exotica_core fcl_catkin geometric_shapes

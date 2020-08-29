@@ -1,0 +1,8 @@
+prefix=/home/ravi/UKIERI/install
+
+Name: exotica_examples
+Description: Description of exotica_examples
+Version: 5.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: sensor_msgs

@@ -1,0 +1,8 @@
+# CMake generated Testfile for 
+# Source directory: /home/ravi/UKIERI/src/exotica/exotations/dynamics_solvers/exotica_cartpole_dynamics_solver
+# Build directory: /home/ravi/UKIERI/build/exotica/exotations/dynamics_solvers/exotica_cartpole_dynamics_solver
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_exotica_cartpole_dynamics_solver_nosetests_test.test_cartpole_diff.py "/home/ravi/UKIERI/build/catkin_generated/env_cached.sh" "/usr/bin/python2" "/opt/ros/kinetic/share/catkin/cmake/test/run_tests.py" "/home/ravi/UKIERI/build/test_results/exotica_cartpole_dynamics_solver/nosetests-test.test_cartpole_diff.py.xml" "--return-code" "\"/usr/local/bin/cmake\" -E make_directory /home/ravi/UKIERI/build/test_results/exotica_cartpole_dynamics_solver" "/usr/bin/nosetests-2.7 -P --process-timeout=60 /home/ravi/UKIERI/src/exotica/exotations/dynamics_solvers/exotica_cartpole_dynamics_solver/test/test_cartpole_diff.py --with-xunit --xunit-file=/home/ravi/UKIERI/build/test_results/exotica_cartpole_dynamics_solver/nosetests-test.test_cartpole_diff.py.xml")
+set_tests_properties(_ctest_exotica_cartpole_dynamics_solver_nosetests_test.test_cartpole_diff.py PROPERTIES  _BACKTRACE_TRIPLES "/opt/ros/kinetic/share/catkin/cmake/test/tests.cmake;143;add_test;/opt/ros/kinetic/share/catkin/cmake/test/nosetests.cmake;83;catkin_run_tests_target;/home/ravi/UKIERI/src/exotica/exotations/dynamics_solvers/exotica_cartpole_dynamics_solver/CMakeLists.txt;46;catkin_add_nosetests;/home/ravi/UKIERI/src/exotica/exotations/dynamics_solvers/exotica_cartpole_dynamics_solver/CMakeLists.txt;0;")

@@ -1,0 +1,8 @@
+prefix=/home/ravi/UKIERI/install
+
+Name: exotica_levenberg_marquardt_solver
+Description: Description of exotica_levenberg_marquardt_solver
+Version: 5.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lexotica_levenberg_marquardt_solver
+Requires: exotica_core

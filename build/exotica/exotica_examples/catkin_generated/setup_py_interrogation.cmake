@@ -1,0 +1,6 @@
+set(exotica_examples_SETUP_PY_VERSION "5.0.0")
+set(exotica_examples_SETUP_PY_SCRIPTS "")
+set(exotica_examples_SETUP_PY_PACKAGES "exotica_examples_py")
+set(exotica_examples_SETUP_PY_PACKAGE_DIRS "src/exotica_examples_py")
+set(exotica_examples_SETUP_PY_MODULES "")
+set(exotica_examples_SETUP_PY_MODULE_DIRS "")
