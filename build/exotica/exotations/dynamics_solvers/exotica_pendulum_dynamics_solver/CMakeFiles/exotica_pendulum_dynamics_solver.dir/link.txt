@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC   -shared -Wl,-soname,libexotica_pendulum_dynamics_solver.so -o /home/ravi/UKIERI/devel/lib/libexotica_pendulum_dynamics_solver.so CMakeFiles/exotica_pendulum_dynamics_solver.dir/src/pendulum_dynamics_solver.cpp.o 

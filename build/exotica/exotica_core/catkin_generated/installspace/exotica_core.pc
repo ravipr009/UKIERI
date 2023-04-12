@@ -1,8 +1,0 @@
-prefix=/home/ravi/UKIERI/install
-
-Name: exotica_core
-Description: Description of exotica_core
-Version: 5.0.0
-Cflags: -I${prefix}/include -I/usr/include -I/usr/include/eigen3
-Libs: -L${prefix}/lib -lexotica_core /usr/lib/x86_64-linux-gnu/libboost_signals.so -ltinyxml2 /usr/lib/x86_64-linux-gnu/libzmq.so
-Requires: roscpp moveit_core moveit_ros_planning moveit_msgs tf eigen_conversions kdl_parser pluginlib tf_conversions geometry_msgs std_msgs

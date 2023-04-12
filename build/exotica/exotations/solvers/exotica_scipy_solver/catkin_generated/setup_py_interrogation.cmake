@@ -1,6 +1,0 @@
-set(exotica_scipy_solver_SETUP_PY_VERSION "0.0.1")
-set(exotica_scipy_solver_SETUP_PY_SCRIPTS "")
-set(exotica_scipy_solver_SETUP_PY_PACKAGES "exotica_scipy_solver")
-set(exotica_scipy_solver_SETUP_PY_PACKAGE_DIRS "src/exotica_scipy_solver")
-set(exotica_scipy_solver_SETUP_PY_MODULES "")
-set(exotica_scipy_solver_SETUP_PY_MODULE_DIRS "")
