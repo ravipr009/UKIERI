@@ -1,8 +1,0 @@
-prefix=/home/ravi/UKIERI/devel
-
-Name: exotica_ompl_solver
-Description: Description of exotica_ompl_solver
-Version: 5.0.0
-Cflags: -I/home/ravi/UKIERI/src/exotica/exotations/solvers/exotica_ompl_solver/include -I/opt/ros/kinetic/include
-Libs: -L${prefix}/lib -lexotica_ompl_solver /opt/ros/kinetic/lib/x86_64-linux-gnu/libompl.so
-Requires: exotica_core

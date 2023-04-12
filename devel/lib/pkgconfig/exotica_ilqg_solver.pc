@@ -1,8 +1,0 @@
-prefix=/home/ravi/UKIERI/devel
-
-Name: exotica_ilqg_solver
-Description: Description of exotica_ilqg_solver
-Version: 0.0.1
-Cflags: -I/home/ravi/UKIERI/devel/include -I/home/ravi/UKIERI/src/exotica/exotations/solvers/exotica_ilqg_solver/include
-Libs: -L${prefix}/lib -lexotica_ilqg_solver
-Requires: exotica_core

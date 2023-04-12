@@ -1,8 +1,0 @@
-prefix=/home/ravi/UKIERI/devel
-
-Name: exotica_scipy_solver
-Description: Description of exotica_scipy_solver
-Version: 0.0.1
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/ravi/UKIERI/devel
-
-Name: exotica_pendulum_dynamics_solver
-Description: Description of exotica_pendulum_dynamics_solver
-Version: 0.0.1
-Cflags: -I/home/ravi/UKIERI/devel/include -I/home/ravi/UKIERI/src/exotica/exotations/dynamics_solvers/exotica_pendulum_dynamics_solver/include
-Libs: -L${prefix}/lib -lexotica_pendulum_dynamics_solver
-Requires: exotica_core
